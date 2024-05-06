@@ -1,0 +1,2 @@
+World: "world_survival"
+broadcast: "%player% &ehas voted for day (%votes%/%percent%)"

@@ -1,0 +1,7 @@
+name: ColePercentDay
+version: '${project.version}'
+main: com.unclecole.colepercentday.ColePercentDay
+api-version: 1.18
+authors: [ Cole ]
+commands:
+  voteday:
